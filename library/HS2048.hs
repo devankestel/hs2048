@@ -1,5 +1,5 @@
 -- | An example module.
-module Example (main) where
+module HS2048 (main) where
 
 -- | An example function.
 main :: IO ()

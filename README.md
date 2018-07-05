@@ -7,12 +7,6 @@ before, I suggest reading the introductory blog post. You can find it here:
 Before you get started, there are a few things that this template couldn't
 provide for you. You should:
 
--   Add a synopsis to `package.yaml`. It should be a short (one sentence)
-    explanation of your project.
-
--   Add a description to `package.yaml`. This can be whatever you want it to
-    be.
-
 -   Add a category to `package.yaml`. A list of categories is available on
     Hackage at <http://hackage.haskell.org/packages>.
 
